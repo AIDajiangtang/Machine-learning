@@ -222,4 +222,6 @@
 [神经网络反向传播的数学原理](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247504330&idx=2&sn=e4752423687516ae81187bab484353b2&chksm=c029f4cdf75e7ddbb69e92e21b179c0cc1f112202371fe8110d4b16937a98bb4aa06d3c3c481#rd)<br /> 
 [GAN背后的数学原理](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247504649&idx=1&sn=f7f5b45fb7e69245d0b45464977a6c73&chksm=c029f60ef75e7f18ed129eddd9a95e0ca7d56d1f499ed5772ba88b17374aa9d56930be024de1#rd)<br /> 
 
-
+想要阅读更多关于人工智能技术博客，请关注微信公众号：**人工智能大讲堂**<br /> 
+![image](https://github.com/AIDajiangtang/Machine-learning-Blogs/blob/main/QRCode.jpg)  
+**专注人工智能底层数学原理和应用，专栏包括线性代数，概率统计，机器学习，深度学习。**<br /> 
