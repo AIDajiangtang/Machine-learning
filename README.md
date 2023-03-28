@@ -4,7 +4,7 @@
 **专注人工智能底层数学原理和应用，专栏包括线性代数，概率统计，机器学习，深度学习。**<br /> 
 
 
-<br /> <font size=5>**线性代数**</font>
+**线性代数**<br />
 [线性代数博客合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MzY2MjMxMg==&action=getalbum&album_id=2624994751276367872#wechat_redirect)<br /> 
 [向量，线性组合，线性相关，基，线性相关](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247485052&idx=1&sn=23c3fb16d9d33bd5a624f1c11ad8f420&chksm=c02a237bf75daa6d8c9d2953606d6023ae1e035adb2df9d98c6546c01403770b96e563133ec3#rd)<br /> 
 [矩阵与线性变换](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247485143&idx=1&sn=60738281ccd8bb798490d06ffe1e153f&chksm=c02a23d0f75daac607737c20039d22dac025d1852f4d8b604c9c5acca27fd7e7224c51f2fff2#rd)<br /> 
@@ -53,29 +53,24 @@
 
 
 
-**概率统计博客汇总**<br /> 
+**概率统计**<br /> 
 [概率统计博客合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MzY2MjMxMg==&action=getalbum&album_id=2687431408654729219#wechat_redirect)<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
+[概率统计在自然语言处理中的应用](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247494063&idx=1&sn=189a358f0b12c593eae3f437a60c6614&chksm=c029cca8f75e45beb2d128b379fbb7bf92466200cf3b2978746960273e4f3384f55f6833d81b#rd)<br /> 
+[统计学到底是个啥？](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247494128&idx=1&sn=25354f10ad1553b6ed5fe42b36e91127&chksm=c029ccf7f75e45e100e11caa8741b160b2d75b43fa5f3eafdc3448f871333102b824f9615b1d#rd)<br /> 
+[通过熵和信息增益进行特征选择](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247494218&idx=1&sn=1bc4d1f8f733a59f2ae311bca1f3ad3d&chksm=c029cf4df75e465becca4ef1fe9a544d8e9ea272169c9421beab9915051ddee3941ba912dfbf#rd)<br /> 
+[使用贝叶斯进行水果分类](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247494332&idx=2&sn=634ad8150260babeef3978e9ef19f7d2&chksm=c029cfbbf75e46ad3b64d13e2f8cdddf0fb3aeec60ecd0a4129bf9c4a0ba81bda415d843b5b6#rd)<br /> 
+[从数学角度解释个人单身原因](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247494795&idx=2&sn=9ac65c2ef415598d529acb96f5d02dd6&chksm=c029c98cf75e409aaa47fe8e457c70bce13dec5fb0f2cd1fdbd9bbeac21ccea5fb655276a233#rd)<br /> 
+[如何用数学知识去计算后宫三千佳丽的宠幸问题](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247494795&idx=1&sn=e42d01389a3573defb81dde8d2895663&chksm=c029c98cf75e409a640bbf40029d461326ae315b2f1793e201bed234e3eb74d684992e442ee5#rd)<br /> 
+[通俗易懂讲解“协方差”与“相关系数”](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247498111&idx=1&sn=497de98cd67f660f00c8b820ecc449d7&chksm=c029dc78f75e556e121e0d40d2bfd79b9c9ac1929a83a46c28155a14bec053ca43eaadc09264#rd)<br /> 
+[中心极限定理应用](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247500803&idx=2&sn=37d5d39d79587b5e7c1e30da729ab934&chksm=c029e104f75e6812021de9da824d0770a8555532522e751a848907a746ec7d5c795dad9a4b4e#rd)<br /> 
+[正态分布为什么常见？](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247501052&idx=1&sn=27fb74e4ae1313c733818ea14f8d9b1f&chksm=c029e1fbf75e68ed11f6c386bceb218a07d461a897c08d85b43bfcf05ecc95a405933b3c3d30#rd)<br /> 
+[大数定理的通俗理解](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247501349&idx=2&sn=27187dd6aec31a2bff9316704d21d1ce&chksm=c029e322f75e6a342e2d099fde1c839ce63bd14420fbd8504a638ef0f5b6679e60411287711b#rd)<br /> 
+[机器学习为什么需要概率与统计？](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247501349&idx=1&sn=2da6cd280c71d70c604bc631b1fbe053&chksm=c029e322f75e6a348ba2487c1d5e37c538d96613cdca4d361d1d73fcd10a6b9496f56c803f91#rd)<br /> 
+[概率的本质是什么？](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505209&idx=1&sn=c67856f794dd187d2ed39f0fd1406e3c&chksm=c029f03ef75e792865c3bf6f197581670383e1087a708ba0e1bf6a168b9ad64775e12df39673#rd)<br /> 
 
-[机器学习博客合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MzY2MjMxMg==&action=getalbum&album_id=2597498500050042882#wechat_redirect)<br /> 
+
 **机器学习博客汇总**<br /> 
+[机器学习博客合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MzY2MjMxMg==&action=getalbum&album_id=2597498500050042882#wechat_redirect)<br /> 
 []()<br /> 
 []()<br /> 
 []()<br /> 
