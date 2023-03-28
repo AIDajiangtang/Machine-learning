@@ -4,9 +4,8 @@
 **专注人工智能底层数学原理和应用，专栏包括线性代数，概率统计，机器学习，深度学习。**<br /> 
 
 
-
+<br /> <font size=5>**线性代数**</font>
 [线性代数博客合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MzY2MjMxMg==&action=getalbum&album_id=2624994751276367872#wechat_redirect)<br /> 
-**线性代数合集汇总**<br /> 
 [向量，线性组合，线性相关，基，线性相关](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247485052&idx=1&sn=23c3fb16d9d33bd5a624f1c11ad8f420&chksm=c02a237bf75daa6d8c9d2953606d6023ae1e035adb2df9d98c6546c01403770b96e563133ec3#rd)<br /> 
 [矩阵与线性变换](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247485143&idx=1&sn=60738281ccd8bb798490d06ffe1e153f&chksm=c02a23d0f75daac607737c20039d22dac025d1852f4d8b604c9c5acca27fd7e7224c51f2fff2#rd)<br /> 
 [逆矩阵，列空间，秩与零空间](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247486273&idx=1&sn=bb40e3f390543d93d94fec429bcfb571&chksm=c02a2e46f75da7501f4232f05dcbc1fb9cff1b91f3a367083b2662642593d44cfa0787577657#rd)<br /> 
@@ -48,18 +47,14 @@
 [线性代数在数据科学中的应用](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505648&idx=2&sn=3d725faf0ac168aebe14c4f2046d78cb&chksm=c029f3f7f75e7ae1b96f3c6f4ba4211b44fcec1301c75ef2708f03424dc55be89f4cb6640c97#rd)<br /> 
 [线性代数知识点串烧](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505396&idx=1&sn=456bf385e9c87c0cad8a9efad6ab18fc&chksm=c029f0f3f75e79e5b967b8d6de2704cf95036367ce452a5e53464cc187b48aad5c4f71ce8e84#rd)<br /> 
 [看线性代数如何进行人脸识别](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505279&idx=2&sn=673a3fc7a8b831c01148c98b0945e4e1&chksm=c029f078f75e796ed2a5981fc6eab30d810dadb80941a9e572e940b8ac7abab590f9ff84a9ec#rd)<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
+[求解线性方程组的迭代方法](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505142&idx=1&sn=598ec0860a3ad79fb1f78a5e2bbeeb10&chksm=c029f1f1f75e78e7937cc5162a99dce594b5cb0e928788ec187b5cc65ac1f893560fc623f4cb#rd)<br /> 
 []()<br /> 
 []()<br /> 
 
 
 
-[概率统计博客合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MzY2MjMxMg==&action=getalbum&album_id=2687431408654729219#wechat_redirect)<br /> 
 **概率统计博客汇总**<br /> 
+[概率统计博客合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MzY2MjMxMg==&action=getalbum&album_id=2687431408654729219#wechat_redirect)<br /> 
 []()<br /> 
 []()<br /> 
 []()<br /> 
