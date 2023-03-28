@@ -48,9 +48,6 @@
 [线性代数知识点串烧](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505396&idx=1&sn=456bf385e9c87c0cad8a9efad6ab18fc&chksm=c029f0f3f75e79e5b967b8d6de2704cf95036367ce452a5e53464cc187b48aad5c4f71ce8e84#rd)<br /> 
 [看线性代数如何进行人脸识别](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505279&idx=2&sn=673a3fc7a8b831c01148c98b0945e4e1&chksm=c029f078f75e796ed2a5981fc6eab30d810dadb80941a9e572e940b8ac7abab590f9ff84a9ec#rd)<br /> 
 [求解线性方程组的迭代方法](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505142&idx=1&sn=598ec0860a3ad79fb1f78a5e2bbeeb10&chksm=c029f1f1f75e78e7937cc5162a99dce594b5cb0e928788ec187b5cc65ac1f893560fc623f4cb#rd)<br /> 
-[]()<br /> 
-[]()<br /> 
-
 
 
 **概率统计**<br /> 
@@ -71,17 +68,64 @@
 
 **机器学习博客汇总**<br /> 
 [机器学习博客合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MzY2MjMxMg==&action=getalbum&album_id=2597498500050042882#wechat_redirect)<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-[]()<br /> 
-
+[机器学习源码分析：逻辑回归](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247484539&idx=1&sn=2e785f52b849b1f4b7b51cefb1239781&chksm=c02a217cf75da86a6395a1c0f42b38d87c4dcde2b5bbde2f082cff396d499c07f601d2d30e10#rd)<br /> 
+[机器学习源码分析-K-最近邻](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247484807&idx=1&sn=b1ed564357b098621f7269619e6f30ee&chksm=c02a2080f75da9964702ade1028e4cd9ef34b73585657f60f33aa328de018237ebca0abdbc2d#rd)<br /> 
+[机器学习源码分析-支持向量机SVM](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247484908&idx=1&sn=c252778404509053133cc156963c3b4f&chksm=c02a20ebf75da9fdeee0188b5bb06bc019da2da9ebc2c049118ca01177011a8da14db7dc1f86#rd)<br /> 
+[机器学习源码分析：贝叶斯](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247491622&idx=1&sn=c44132e145d5bc547c1e2a405e540e93&chksm=c029c521f75e4c370a0d0d220763aecc2a9f20bf6f44f23ad7682aef1e6b43ba726fedd43bf5#rd)<br /> 
+[机器学习源码分析-聚类](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247492272&idx=1&sn=66c8c0109af9931311a771c7ff811797&chksm=c029c7b7f75e4ea13324e7119d9a84bdc4ae6ce0e472088e1d4bfdb3ed4e731f89c74301ffb0#rd)<br /> 
+[机器学习源码分析-EM](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247493072&idx=1&sn=a58e8cab613c537ecc38e7c9999bb70b&chksm=c029c0d7f75e49c121916a4555bfa1a2a09ec98b5a02c7d059eb40966de27be0b3ff8f2e3e4c#rd)<br /> 
+[特征值分解](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247493457&idx=1&sn=beeff55640bdad9d6b7bd3f6b22625dd&chksm=c029c256f75e4b4016cd29d5ebc28560ec32e3a98d8767dd9e3f010fbb7d71f6c168ea54e564#rd)<br /> 
+[奇异值分解](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247493463&idx=1&sn=a51add3b43fa29c62267daac04bdb339&chksm=c029c250f75e4b468d01a8da506772da650dec32ff49a38f959f7f55dc4b11df9677463d1a8f#rd)<br /> 
+[线性回归分析](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247493928&idx=1&sn=253947d078710cf7b3a9086f7922ac68&chksm=c029cc2ff75e45395c2d7d4f7ea4e2819847dd8479151fc10284e6efbe1ba3ad34138213ffe5#rd)<br /> 
+[决策树（一）：信息熵和信息增益](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247494094&idx=1&sn=9723683b297be21fa98d77ba5adbac2d&chksm=c029ccc9f75e45df0e861f4e33dd9059ba86dd4b5de5f3426f3dcae3cf1a636c11639298189e#rd)<br /> 
+[决策树（二）：ID3，C4.5，CART](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247494094&idx=2&sn=2c7377220c40179dac6a3c592056cc08&chksm=c029ccc9f75e45df0a51057fecf56527e67d51e706eeac6f7a9003b8c5c7dcddc3c68330dd4a#rd)<br /> 
+[用户留存分析](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247494186&idx=1&sn=2e43beffb402aa3f794f4bf6eed00d25&chksm=c029cf2df75e463b56e1db120aef2d7dc68bd14c85d342b932255d97866800a4147c045bd3b2#rd)<br /> 
+[集成学习](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247494210&idx=1&sn=117cc5a173c85882f510088fb178e7aa&chksm=c029cf45f75e4653eba0101dc426d1c83615d4fc7fb557d39304bde74bff04b295578911604c#rd)<br /> 
+[时间序列和回归分析的本质区别](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247494615&idx=3&sn=2f16accb182abcf29dff5f962812ab0d&chksm=c029ced0f75e47c619d30b6027c36f60c7e89a58e5a0a27bad90ffbe030146ff1bb2686b649d#rd)<br /> 
+[如何通俗易懂地讲解PCA？](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247494701&idx=1&sn=c7bf5849b4b34fe0da36b511fd16da0b&chksm=c029c92af75e403cb2f7f0a3f728a8cf5988718f26fecd5dcc659517ba7e07a5a7d47e9a34df#rd)<br /> 
+[最大似然估计和最小二乘法怎么理解](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247494701&idx=3&sn=ba90bdf295be665f3552b2ae628078a8&chksm=c029c92af75e403c383245cdcf9aa469fd0a7305827d3c7aa3ab1f3b22c2a9b556d7ae2e69b0#rd)<br /> 
+[如何通过显著性检验，判断你的A/B测试结果是不是巧合？（上）](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247494795&idx=3&sn=6595910b531d44335e980e3438205525&chksm=c029c98cf75e409aa49b153655c5896dedc958235caa87afb11e8be523422c1ed69775556e2d#rd)<br /> 
+[如何通过显著性检验，判断你的A/B测试结果是不是巧合？（下）](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247494795&idx=4&sn=6cda10d9ee2dbb2cbd81f6967d5007f6&chksm=c029c98cf75e409a4e8058d08c2f0ceaa5c4354a31c76e40692e2da71b083d3452c6f97f630f#rd)<br /> 
+[三种能够处理离群值的线性回归模型](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247494918&idx=1&sn=6a29e870d524de650d5a60015e5bd33c&chksm=c029c801f75e4117acc34ab3a1c79ee077a8cc2e7bd0eb848d3441620ee553085fac2d7bc94a#rd)<br /> 
+[深度学习聚类的综述](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247494918&idx=2&sn=366551af14aa39babee13444c61364b1&chksm=c029c801f75e4117f3565aee6e4929c690f0f9d7995ddef9c17bb1692fcef43261d39ff4dee1#rd)<br /> 
+[主动学习（Active Learning）概述及最新研究](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247494918&idx=3&sn=6c46ee2befa9476b9cf2f46ca4932d2b&chksm=c029c801f75e4117742213e714599fa842dba478482989172c590f275276834ca4b03617dd02#rd)<br /> 
+[图解马尔科夫链，PCA，贝叶斯](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247495040&idx=2&sn=ffa969257565cff3e885aff7aeb3bafd&chksm=c029c887f75e41911ada28bfe659b9f4624f13870b884b7d6f620267a26fb78dceb960a66496#rd)<br /> 
+[10种顶流聚类算法及实现](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247495157&idx=2&sn=115f516f3e8d320d9a142ad53edb13a2&chksm=c029c8f2f75e41e414a1fd219b421de05423a9052e5f41bcdd6372a0cbcb8d857ce909cc1938#rd)<br /> 
+[深入理解LightGBM](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247495040&idx=3&sn=b3278548fa89f4ad9540bf4a4ba06755&chksm=c029c887f75e4191e1e0844de67aa73414ea1b33d927fffd4a980e35577a139780011ee68c4c#rd)<br /> 
+[常见的几种最优化方法](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247495352&idx=1&sn=f90d81ddd561814155cf43a99df7edd3&chksm=c029cbbff75e42a9c2cfa507d28c60dc6999508304bb896873949c1e552939457746527e374a#rd)<br /> 
+[常用监督学习速查表](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247495352&idx=2&sn=6de85eaa58fa9fe5c0499bf65f8da161&chksm=c029cbbff75e42a9507ccfeafc1eea22f4a827f8988db43a465ceea62501a31c3e932748a1fb#rd)<br /> 
+[集成学习算法](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247495259&idx=1&sn=3019091f804cea44f454acb6bf65a9ea&chksm=c029cb5cf75e424a361e3dbf72c8b8c992c41cc82042dc0b6cba98735b2463f6c767fae0b488#rd)<br /> 
+[各种机器学习算法的特点以及应用场景对比](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247498002&idx=2&sn=4210d9c00316cab65dae935c7c5838da&chksm=c029dc15f75e5503dabd1492e38c35f218caee5ef1f237f39ae16eabe6f845ff52b4f477d903#rd)<br /> 
+[机器学习中的明星模型](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247498108&idx=1&sn=32060f9a06a5868dcb143d86a373eb51&chksm=c029dc7bf75e556d66e24d015f2b382065e1ac2eace6523479510680ac195c5fcab17e0fcb67#rd)<br /> 
+[机器学习的“难”与“易”](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247498109&idx=1&sn=d9e9cf2a17d08de9f64985c09242b08f&chksm=c029dc7af75e556cca84920a5c253998782863494bd74f12f8d40d4a3144d295c3facf4c91b5#rd)<br /> 
+[概率图模型](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247498245&idx=1&sn=cf61f15b640ec5ca3a1eaed483d9d988&chksm=c029df02f75e5614f71dff104026f3b4da680ce8cbb9b9f7b8ac40356898ab6cdf156bb73ab0#rd)<br /> 
+[机器学习中的“假设”思想](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247498419&idx=2&sn=2d9915adb81d1e5ac567169b7ea58390&chksm=c029dfb4f75e56a2f06d485665b25eef11367ff0b8e1e50700e2c6df0b68401cbc84d95ae268#rd)<br /> 
+[使用随机森林进行数据降维](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247499523&idx=2&sn=17e281fb88018fb8621640bc0a79abb5&chksm=c029da04f75e53127d2be454f7541781ea33ab0ca435ce7ed89e8746c2848335cbe4ee41ced9#rd)<br /> 
+[高斯过程](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247499613&idx=4&sn=63436a60133c71d4a3f91c8f9e8d83c0&chksm=c029da5af75e534c6cda1000b781bb7ca34f26e6857b09ea8775e1ff9f5488d03314e5ff2dd5#rd)<br /> 
+[拉格朗日乘子法与对偶问题](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247499766&idx=1&sn=eec6b4a20adf0307bec740272485df5d&chksm=c029daf1f75e53e79a243845af719643cc7d85a4ba86540a2b4012d2ddf9825ee8aaa2cd4156#rd)<br /> 
+[决策树（中）——Random Forest、Adaboost、GBDT （非常详细）](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247500553&idx=1&sn=ecb65322198778e24ee7d56a15a06b10&chksm=c029e60ef75e6f184ab205bd8285355e454fac8cfe57f2a68b1f2963c229835d2f44c0f89437#rd)<br /> 
+[正则化到底是什么？](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247500724&idx=1&sn=16c4faaca7c1f12496b4630899f0a0e9&chksm=c029e6b3f75e6fa566c7781d3b93a4c1dd333270ace134b9fb16ec936700bea971044ec31742#rd)<br /> 
+[如何处理不平衡数据集](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247500724&idx=2&sn=e9e0e2daee0915ef9fad1d0101264585&chksm=c029e6b3f75e6fa53d9680eac043b2fb786f39954800ed43c482b1deca1a3c875b08fdebbb6a#rd)<br /> 
+[机器学习应补充哪些数学基础？](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247500803&idx=3&sn=98d18830a4355bfedd276f9fe114a9a5&chksm=c029e104f75e68120d4a7923267e7c5ee8147005be793c3bc86eaaccb685210a712913e58ec0#rd)<br /> 
+[Isolation Forest（孤立森林）进行异常检测](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247501114&idx=1&sn=2fd83e5aeef77a6effa234644d3ef114&chksm=c029e03df75e692b40ef0b97cb60f1e1d97ec7c5b47e878f0a79e6af9d5b656b3735c03c942c#rd)<br /> 
+[为什么回归问题用 MSE？](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247501114&idx=2&sn=0e48d71bfadc0c4e48e1012c5b381ae7&chksm=c029e03df75e692b00debdd063b7d78cca4e7e37f419ff715e994b8d65f9b6fc098d0c8a0994#rd)<br /> 
+[深刻地理解随机过程的含义](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247501114&idx=3&sn=8e7f473972c56ddb66d09ca64b69763d&chksm=c029e03df75e692bbe9909652b49d1e2236a100c4f4a397ebe8eb30f5aed39ed5fc4ebbbd6fd#rd)<br /> 
+[梯度下降背后的数学之美](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247501306&idx=2&sn=78bfadffdb1345de7fcfdc6eb6486366&chksm=c029e0fdf75e69ebb3798b28091f70d30c80c8c6fa011110789eecb6bf8f0e374c88a0e932d8#rd)<br /> 
+[一文搞懂马尔科夫链](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247501306&idx=1&sn=21c291ce69d942d128dd68a98e283b62&chksm=c029e0fdf75e69ebc1fbe4561243bb138d72dee3a59c0a0a387a2d4518fa09b7b05ebe646628#rd)<br /> 
+[图解最常用的10大机器学习算法！](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247501349&idx=3&sn=b95a948afb42ceee54486663af82b36b&chksm=c029e322f75e6a3488c9d2c8d03b8ce8bd2191e1901ecc5e7b58786e86783bdde9e68a697820#rd)<br /> 
+[回归的多种写法：线性回归-贝叶斯线性回归-高斯过程回归](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247501588&idx=1&sn=86e3bb5e1bbbbb14e9ee4440e8b31270&chksm=c029e213f75e6b05c79c31aa6592090e05d725b0106f7f84fa873d40db686e73d1e93daacafb#rd)<br /> 
+[看得见的高斯过程：这是一份直观的入门解读](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247501629&idx=2&sn=93a9c7947313424f68828c3de0ee5d1f&chksm=c029e23af75e6b2cb4885c1723943a828407635e30f9982602df14afd3c28e26c728ca441d81#rd)<br /> 
+[给大家推荐几个资源](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247501629&idx=1&sn=44a74d5e8ad5d9f1a997237925bb3b08&chksm=c029e23af75e6b2c4a220fb9ee46f63f6d47179bbb57cce62fd44d5575c2c5875963961696fa#rd)<br /> 
+[线性回归的N种求解方法](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247503791&idx=1&sn=c38113f5e8406b3b8e2c45fb9c3cca6a&chksm=c029eaa8f75e63be0f151b36a856d67b1eedbadac001cd3a10262c7c739b06edd70ea4e74161#rd)<br /> 
+[梯度提升算法决策过程的逐步可视化](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247503854&idx=1&sn=c0be13a8e4f36db852964bd8959524dc&chksm=c029eae9f75e63ff2c58d531ac568d9b6018e51856c899acd9c7d654e3375338c517c0532805#rd)<br /> 
+[GBDT基础：回归树](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247504087&idx=1&sn=7c18e75cd7b2f6f0c07e567eba25fa9e&chksm=c029f5d0f75e7cc621a2bb4f659c0a0e9b97abe07fe0054981bd46c7638b591f9bbd0c1f6cef#rd)<br /> 
+[GBDT基础：提升树](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247504179&idx=1&sn=080f36dc52632f650c47b21454726145&chksm=c029f434f75e7d225d0cea63ba0143197665b5e9d16221995b81bfbb68e41c3ce76e4538d7f0#rd)<br /> 
+[由过拟合欠拟合引出模型选择的思考](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247504188&idx=1&sn=2def8fa2cde18e01f243b3b63841ff6b&chksm=c029f43bf75e7d2d5deb305867123ae4c760880073146f4cd2636ba6b05ed6afed6fd5b7e299#rd)<br /> 
+[决策树防止过拟合方法：剪枝](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247504736&idx=2&sn=79b7f47ab1ce9cd8d2e4b31eecc891eb&chksm=c029f667f75e7f7128ba31a7d66b6f4f06503c054af0985eb4505a3d71defbd2a59afb7bff9d#rd)<br /> 
+[到底什么泰勒公式？](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247504859&idx=1&sn=c90c9f1c1055625b8aaba92916413f4b&chksm=c029f6dcf75e7fca35b26f4f9e3ca136a541e36d150065b60db5b91677de4211a62812fad8f0#rd)<br /> 
+[数学基础](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505147&idx=1&sn=386ed6e548a4d89e4a0ffb0b523e6ea0&chksm=c029f1fcf75e78ea90d29698554a4fad5c623e8e72ef392b8b21e3d24d869628efe1a20ecd0d#rd)<br /> 
+[机器学习知识点串烧](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505397&idx=1&sn=0927d4302958e542c81551fbe3ac0c30&chksm=c029f0f2f75e79e4ac9b57ecc14570fc442dab331580223ccf0704f3fa4769e800a1e503bb09#rd)<br /> 
+[高斯过程](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247505648&idx=1&sn=4f793ac77ffd72f1713b0548f2e84010&chksm=c029f3f7f75e7ae15319d3974b90e778f9764bfa9da8bee18493577a980e60f4467bfae2901b#rd)<br /> 
 
 [深度学习博客合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MzY2MjMxMg==&action=getalbum&album_id=2587539538391318531#wechat_redirect)<br /> 
 **深度学习博客汇总**<br /> 
