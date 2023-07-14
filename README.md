@@ -222,6 +222,12 @@
 [神经网络反向传播的数学原理](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247504330&idx=2&sn=e4752423687516ae81187bab484353b2&chksm=c029f4cdf75e7ddbb69e92e21b179c0cc1f112202371fe8110d4b16937a98bb4aa06d3c3c481#rd)<br /> 
 [GAN背后的数学原理](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247504649&idx=1&sn=f7f5b45fb7e69245d0b45464977a6c73&chksm=c029f60ef75e7f18ed129eddd9a95e0ca7d56d1f499ed5772ba88b17374aa9d56930be024de1#rd)<br /> 
 
+**人工智能思维导图系列**<br /> 
+[线性代数思维导图](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247512611&idx=1&sn=37a55538daf2349d71a3f22484383d1c&chksm=c0299724f75e1e320ea0d71ff55d6eb596600c63c97456dd195ca7ec35714dd521451c76108f#rd)<br /> 
+[概率与统计思维导图](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247512695&idx=1&sn=475fcc18706d09cf7dfd8860775b130a&chksm=c0299770f75e1e6641256eba3ce38fc616156e3908fa220e7110a811057941ffde3a54db3f1b#rd)<br /> 
+[机器学习思维导图](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247512700&idx=1&sn=de63de08f98c01a46db962ac37962a5f&chksm=c029977bf75e1e6da8237b8ef1b4b1d1496d07f96e7a161183b3a0df7b118faf5bacf3c3379f#rd)<br /> 
+[AI技术栈思维导图](https://mp.weixin.qq.com/s?__biz=Mzg5MzY2MjMxMg==&mid=2247512790&idx=1&sn=aa9e35242a761ced6d10d4a503c903f8&chksm=c02997d1f75e1ec706b64ce9a8cf23b45f6dc5a24a9f7b0149ea9be4d729d7129121f8ac4570#rd)<br /> 
+
 想要阅读更多关于人工智能技术博客，请关注微信公众号：**人工智能大讲堂**<br /> 
 <img width="180" src="https://user-images.githubusercontent.com/18625471/228743333-77abe467-2385-476d-86a2-e232c6482291.jpg"><br /> 
 **专注人工智能底层数学原理和应用，专栏包括线性代数，概率统计，机器学习，深度学习。**<br /> 
